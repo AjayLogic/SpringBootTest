@@ -30,7 +30,7 @@ public class EmployeeServiceTest {
 	EmployeeService employeeService;
 
 	@MockBean
-	private EmployeeRepo employeeRepo;
+	private EmployeeRepo employeeRepo ;
 
 	@Before
 	public void setup() {
